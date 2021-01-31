@@ -1,5 +1,4 @@
-### Hello World ! 👋
-
+### Hello World ! 👋 
 <!--
 **xcornx/xcornx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning via :
+
+<img src="https://echoctf.red/profile/4911377/badge" alt="EchoCTF">
+</br>
+<img src="https://tryhackme-badges.s3.amazonaws.com/vvip1337.png" alt="TryHackMe">
