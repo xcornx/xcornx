@@ -14,7 +14,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning via :
-
-<img src="https://echoctf.red/profile/4911377/badge" alt="EchoCTF">
-</br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/vvip1337.png" alt="TryHackMe">
