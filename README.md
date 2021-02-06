@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning via :
 ![EchoCTF](https://echoctf.red/profile/4911377/badge)
-<img src="https://tryhackme.com/badge/100232" alt="TryHackMe"> <img src="http://www.hackthebox.eu/badge/image/468520" alt="Hack The Box">
+<img src="https://i.imgur.com/esOAUR8.png" alt="TryHackMe"> <img src="http://www.hackthebox.eu/badge/image/468520" alt="Hack The Box">
