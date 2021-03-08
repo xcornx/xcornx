@@ -1,7 +1,7 @@
 # xCorNx | profile
 
-![ccda](dadad)
+<img src="https://raw.githubusercontent.com/xcornx/xcornx/main/img/cicada-small.png">
 
-:heart: - [xcornx](google.com)
+:heart: - [xcornx](https://xcornx.github.io/)
 
 :mailbox: - [vvip@pm.me](mailto:vvip1337@pm.me)
