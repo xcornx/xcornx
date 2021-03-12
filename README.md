@@ -1,6 +1,6 @@
 # xCorNx | profile
 
-:heart: - [xcornx](https://xcornx.github.io/)
+:heart: - [xcornx](https://twitter.com/xcornx_)
 
 :mailbox: - [vvip@pm.me](mailto:vvip1337@pm.me)
 
